@@ -1,0 +1,2 @@
+I developed a physics-based simulation of the classic carrom board game, incorporating realistic collision mechanics, friction modeling, and turn-based gameplay. Built from scratch using Python and Pygame, the project focuses on replicating accurate striker-shot dynamics and game flow. This was a rewarding exercise in combining programming, physics, and UI design, and it deepened my understanding of simulating real-world systems computationally.
+Read the full report here: https://drive.google.com/file/d/1GWYAYLAtNg6hD6Tkx8sTiVH-lZR4imkK/view
